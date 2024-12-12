@@ -8,7 +8,7 @@
 	)
 	(paper "A5")
 	(title_block
-		(title "Z-80 SYNC BUSS CONTROLLER COMPONENT LAYOUT")
+		(title "Z-80 SYNC BUSS CONTROLLER")
 		(company "MIDWAY MFG. CO.")
 		(comment 1 "PART NO. A082-91383-8000")
 	)
